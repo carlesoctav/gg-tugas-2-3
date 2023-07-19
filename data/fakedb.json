@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": [
+        "kobo kanaeru"
+      ],
+      "artist": "kobosaurus",
+      "url": "www.youtube.com",
+      "id": "fu6u6tceo45it2xniulwr"
+    },
+    {
+      "title": "kobosaurus",
+      "artist": [
+        "kobo kanaeru"
+      ],
+      "url": "www.youtube.com",
+      "id": "3y5ucdxfzu41eltec2s8wa"
+    },
+    {
+      "title": "bukan kobo saurus 1000",
+      "artist": "kylei",
+      "url": "www.youtube.com",
+      "playCount": 43936098,
+      "id": "7xntkq4y984bseamj6kurl"
+    }
+  ]
+}
