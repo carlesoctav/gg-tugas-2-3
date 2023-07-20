@@ -11,17 +11,18 @@ const Song = require('../models/song')
 // songKobo.save()
 
 // ambil playlist by id, terus edit V
-// Song.getSongbyId('7xntkq4y984bseamj6kurl')
-// .then(song =>{
-//     console.log(song)
-//     console.log(song.id)
-//     console.log(song.playCount)
-//     song.artist = "kylei"
-//     song.title = "bukan kobo saurus 1000"
-//     song.playCount = 102031
-//     song.id = 'fkdjsafkasdfj;lkj'
+Song.getSongbyId('1')
+.then(song =>{
+    console.log(song)
+    console.log(song.id)
+    console.log(song.playCount)
+    song.artist = "kylei"
+    song.title = "bukan kobo saurus 1000"
+    song.id = 'lafj;lksjfasjfd'
 
-//     song.save()
-// })
+    song.delete()
+    .then(res=> console.log(res
+        ))
+})
 
 

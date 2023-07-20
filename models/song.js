@@ -1,7 +1,7 @@
 class Song {
     constructor(artist, title, url, playCount, id){
 
-        const tempId = id === undefined ? Song.generateID(): id
+        const tempId = id === un1d ? Song.generateID(): id
         const tempPlayCount = playCount === undefined ? Song.generatePlayCount() : playCount
 
         this.artist = artist
@@ -30,7 +30,6 @@ class Song {
         } catch(error){
             console.error(error)
         }
-
     }
 
     static async getSongbyId(id){
@@ -43,6 +42,7 @@ class Song {
             })
 
             const data = await response.json()
+            
             return new Song(data.artist, data.title, data.url, data.playCount, data.id)
         } catch(error){
             console.log(error)
@@ -58,6 +58,8 @@ class Song {
                 },
                 body: JSON.stringify(songEdited)
             })
+            return response
+
         } catch(error){
             console.log(error)
         }
@@ -72,6 +74,9 @@ class Song {
                 },
                 body: JSON.stringify(songEdited)
             })
+
+            return response
+
         } catch(error){
             console.log(error)
         }
@@ -107,6 +112,20 @@ class Song {
         }
     }
 
+    async delete () {
+
+        try {
+        const response = await fetch(`http://localhost:3000/songs/${this.id}`, {
+            method: 'DELETE'
+        })
+
+        return (response)
+        
+    } catch(error){
+        console.log(error)
+    }
+
+    }
 }
 
 module.exports =  Song
