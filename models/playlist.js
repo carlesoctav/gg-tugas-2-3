@@ -45,13 +45,18 @@ class Playlist {
     }
 
     async construct(){
-        this.songlistId.forEach(async element => {
-           const song = await Song.getSongbyId(element)
+        try{
+            const promises = this.songlistId.map(async element => {
+                const song = await Song.getSongbyId(element)
+                if(song.title !== undefined){
+                  this.constructedSonglist.push(song)
+                }
+            })
+            await Promise.all(promises)
 
-           if(song.title !== undefined){
-             this.constructedSonglist.push(song)
-           }
-        });
+        } catch(error){
+            console.log(error)
+        }
     }
 
     async update(playlistEdited){
@@ -72,15 +77,13 @@ class Playlist {
 
     async firstSave(playlistEdited){
         try{
-            const respoinse = await fetch(`http://localhost:3000/playlists/`, {
+            const response = await fetch(`http://localhost:3000/playlists/`, {
                 method: 'POST',
                 headers:{
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify(playlistEdited)
             })
-
-            return response
 
         } catch(error){
             console.log(error)
@@ -90,7 +93,7 @@ class Playlist {
     async save(){
         const ids = await Playlist.getAllId()
 
-        const PlaylistEdited = {
+        const playlistEdited = {
             'playlistName': this.playlistName,
             'songlistId': this.songlistId,
             'id': this.id
@@ -109,6 +112,19 @@ class Playlist {
                 console.log(error)
             }
         }
+    }
+
+    async delete () {
+        try {
+        const response = await fetch(`http://localhost:3000/playlists/${this.id}`, {
+            method: 'DELETE'
+        })
+        return (response)
+        
+        } catch(error){
+        console.log(error)
+        }
+
     }
 }
 

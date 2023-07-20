@@ -1,13 +1,13 @@
 class Song {
     constructor(artist, title, url, playCount, id){
 
-        const tempId = id === un1d ? Song.generateID(): id
+        const tempId = id === undefined ? Song.generateID(): id
         const tempPlayCount = playCount === undefined ? Song.generatePlayCount() : playCount
 
         this.artist = artist
         this.title = title
         this.url = url
-        Object.defineProperty(this, 'playCount', { value: tempPlayCount, writable:false})
+        Object.defineProperty(this, 'playCount', { value: tempPlayCount, writable:true})
         Object.defineProperty(this, 'id', { value: tempId, writable: false })
     }
 

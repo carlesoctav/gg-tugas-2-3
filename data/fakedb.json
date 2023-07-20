@@ -1333,5 +1333,85 @@
       "id": "u5v3ey959j10kevz6cug5c"
     }
   ],
-  "playlist": []
+  "playlists": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [],
+      "id": "8skp33d696f92ptm8ao2si"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [],
+      "id": "lty3vymgn1mj1vkxjvadq"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [],
+      "id": "k7k3k9jmqmi022uf1qw4nch"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "33pi7r5t99dts41uw76qt"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "x2nywxzsuel13xi4gsej"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "541on3qnh380kv1gn5w2cmq"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "kmmp104y9a4bjq7zgseot"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "ritgvv2c07ke58d0yrt4"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "dlcu87ldjkpgltf707ctyp"
+    },
+    {
+      "playlistName": "Kobo tapi jepang",
+      "songlistId": [
+        "u5v3ey959j10kevz6cug5c"
+      ],
+      "id": "74yerjpuuao4oyz2jbh4pq"
+    }
+  ]
 }
