@@ -1,42 +1,1337 @@
 {
   "songs": [
     {
-      "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "title": [
-        "kobo kanaeru"
-      ],
-      "artist": "kobosaurus",
-      "url": "www.youtube.com",
-      "id": "fu6u6tceo45it2xniulwr"
-    },
-    {
-      "title": "kobosaurus",
+      "title": "〖Kobo Kanaeru〗RAN - Dekat Di Hati (with Lyrics)",
       "artist": [
-        "kobo kanaeru"
+        "Kobo Kanaeru"
       ],
-      "url": "www.youtube.com",
-      "id": "3y5ucdxfzu41eltec2s8wa"
+      "url": "https://youtu.be/KrEGrqgLejY",
+      "playCount": 97986747,
+      "id": "38dsadyjh6rnyr7qp5u8p"
     },
     {
-      "title": "bukan kobo saurus 1000",
-      "artist": "kylei",
-      "url": "www.youtube.com",
-      "playCount": 43936098,
-      "id": "7xntkq4y984bseamj6kurl"
+      "title": "〖Kobo Kanaeru〗Hololive Indonesia 1st Gen - HI-15 (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RmGB1K1aPw0",
+      "playCount": 35139933,
+      "id": "02fjs7zqni0c52wgyhq6nar"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Nekomata Okayu - Mogu Mogu Yummy! (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/ompxcNO_lI8",
+      "playCount": 19741230,
+      "id": "mu0h4ul016mvsryklzvxro"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Takanashi Kiara - SPARKS (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/STryqQgDaTM",
+      "playCount": 102502,
+      "id": "94kcziccektt6kkzymmf6h"
+    },
+    {
+      "title": "Kobo Kanaeru - Let's Sananang Together (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/BwWpOLIaCLE",
+      "playCount": 89367717,
+      "id": "n804w6kz00jsncb10md4xe"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Mori Calliope - Ijimekko Bully (Lofi Ver. With Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/BFEYJh9YF7c",
+      "playCount": 23509972,
+      "id": "irdhjp5rypnsvgw5n9v6fd"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Katy Perry - Firework (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/7xIKw_nFnxU",
+      "playCount": 45000339,
+      "id": "3qyguskjfkgg72rkeofv6n"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vierratale - Rasa Ini (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/otZSAJTk9fU",
+      "playCount": 54036985,
+      "id": "i7cs93071uwhh1o3c5zo"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vierratale - Faith (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/LxADFZhnXk0",
+      "playCount": 61579195,
+      "id": "pe76vqw4ethhsvi19zvqbp"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vierratale - Perih (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/cqAneuDQtrc",
+      "playCount": 62965441,
+      "id": "7nyoy8e495bkn4wpijs99r"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Miki Matsubara - Stay With Me (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/SCyxrVhqICU",
+      "playCount": 90885030,
+      "id": "epru97xq0bg58ir8hpvq8"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Beni - Gimme Gimme (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/FALduuVtY-8",
+      "playCount": 41357281,
+      "id": "qpu76ev2pssl263sdvbayk"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Luis Fonsi ft. Daddy Yankee - Despacito (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/BerVx2Q8Mxg",
+      "playCount": 24691087,
+      "id": "sbzcs0xbecng76rmljy4tg"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗O-Zone - Dragostea Din Tei (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/aGSpQI0w160",
+      "playCount": 76222415,
+      "id": "kttv0kl383fy4857beq3xh"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗SS501 - Making a Lover (Short Ver. with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/xdwLRDLi9p4",
+      "playCount": 15831698,
+      "id": "saevu659jgzvwzmeofqie"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Chanyeol & Punch - Stay With Me (Korean Ver. with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/tLVkgnOTSpc",
+      "playCount": 50734275,
+      "id": "rq73b2fe39c82xl8bw0uvb"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Chanyeol & Punch - Stay With Me (English ver. with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/4MdOzTJmAs4",
+      "playCount": 68006277,
+      "id": "gofq8iphrnftyxo4xu7y2g"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Shaun ft. Conor Maynard - Way Back Home (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/g-ibWV8e64o",
+      "playCount": 72528765,
+      "id": "nv02zqh0axvhoh3mzlpp"
+    },
+    {
+      "title": "Kobo Kanaeru - Mantra Hujan (Hiki Anime Orchestration ver. with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/R1q3qla4ZwE",
+      "playCount": 27331425,
+      "id": "ecvdbqbqfjw0bjg8pvw3g9w"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Doriko - Uta Ni Katachi Wa Nai Keredo (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/SV2i2jju0nI",
+      "playCount": 76028065,
+      "id": "qzufkg0c0pb4hlqstt2gib"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yuika - Sukidakara (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/0PUHWNNBGf4",
+      "playCount": 41760376,
+      "id": "ntomlb4ybskhqgri9fyl"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Mocca - Happy!  (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/McEvi3ey7yY",
+      "playCount": 45014229,
+      "id": "42ui8u9tp9o5wl7wzwa665"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Kana Nishino - Best Friend  (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/NmvcJe2yfBs",
+      "playCount": 92296315,
+      "id": "fmbdzulebbjmkh9kkugqub"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗HoneyWorks - Kawaikute Gomen  (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/wJ5ydUFyhh8",
+      "playCount": 82729948,
+      "id": "gf841zrm226nub8uvtp0kl"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Maroon 5 ft. Wiz Khalifa - Payphone (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/O4QuPOPLejY",
+      "playCount": 34612204,
+      "id": "qd2gtxhpofzrncpkvsk2e"
+    },
+    {
+      "title": "Kobo Kanaeru - Mantra Hujan (Tagalog Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/7G4NdFns8CU",
+      "playCount": 89053184,
+      "id": "kocq31nry4yvvg6phyjur"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Ayase - Yuurei Tokyo / Ghost City Tokyo (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/1KBIytVfCBU",
+      "playCount": 44836938,
+      "id": "urw6l9zy23bddka3eppk"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yorushika - Hana ni Bourei (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/rYgGbs3PoDY",
+      "playCount": 16404358,
+      "id": "9kwamixhq9q4p9zutwkjvq"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Luis Fonsi ft. Daddy Yankee - Despacito (Spanish Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/lbb9f5yhlWQ",
+      "playCount": 93900339,
+      "id": "e2hm8g59np5s94robawwth"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗HoneyWorks - Kawaikute Gomen  (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/wYwR-ZjYu1s",
+      "playCount": 70126575,
+      "id": "mftdc5xfeqbcltiqogxc"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yorushika - Hana ni Bourei (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/vti_ZczJafk",
+      "playCount": 73671506,
+      "id": "hg26ktp72e9623grxv05u"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗bbno$ & Rich Brian - Edamame (Duet)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/70WCR-b3xI0",
+      "playCount": 22600107,
+      "id": "np3oippr1niywzh3ydrgs"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗RAN - Pandangan Pertama (Reff Only with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/TrIxz2kNjkM",
+      "playCount": 43372334,
+      "id": "uz57ey4hzwdlw8hc122pf9"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗SHINee - Stand By Me (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/DPpxJoPCbK4",
+      "playCount": 91483382,
+      "id": "b769vl7g6xtx3iv8s6nto"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Lee Sun Hee - Fox Rain (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/wDDd_eXwTqs",
+      "playCount": 49494008,
+      "id": "l7cgx8y7o7q2y5uc2q5tp"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗BTS - Dynamite (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/b-yWwZ2S7zk",
+      "playCount": 73072810,
+      "id": "794vp7fibjb4tduj0f7cx"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗TWICE - FANCY (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/kR3x46XhCmg",
+      "playCount": 46353598,
+      "id": "fpgkxxgprvvqkaq4nlj5o"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Stephanie Poetri - I Love You 3000 (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/dk2uQivuMqo",
+      "playCount": 95770411,
+      "id": "vljz12jqi4bhk0b7i4j31j"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Clean Bandit - Rockabye (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/X5QWuF1rTgY",
+      "playCount": 4957030,
+      "id": "dhhem1j8a0ejrfsykumdda"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Clean Bandit & Jess Glynne - Rather Be (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/NE2aGyweSP0",
+      "playCount": 29814258,
+      "id": "zbu6dm6gketj9m6z77anr"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Justin Bieber - Love Yourself (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/zsUKwElPWBI",
+      "playCount": 39693632,
+      "id": "86fkkvok7kw45xvno1yad"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Justin Bieber & Ludacris - Baby (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/NZHxbTGGVY4",
+      "playCount": 72964369,
+      "id": "udpj13t4f7pl1wkhcvzt3"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Rick Astley - Never Gonna Give You Up (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/XIsJo9gvpYA",
+      "playCount": 79935179,
+      "id": "l8e29y9js9bj9qo6u1iftk"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Carly Rae Jepsen - Call Me Maybe (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/vFAtgBukzFQ",
+      "playCount": 57938542,
+      "id": "rsd4ymqigdmfqalg5r3qn"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Billie Eilish - Bad Guy (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/E3xvV5XXIN0",
+      "playCount": 62581921,
+      "id": "nlac3kk4h5i2f3qy6qh3l"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Alan Walker - Alone (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/mGdQIZ6TjW8",
+      "playCount": 81481521,
+      "id": "pwwb1snrfe08dvoe66yh1x"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Alan Walker - Faded (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/pohCovrjJbg",
+      "playCount": 88272347,
+      "id": "0zivw7j6dupityb0sk9oxg"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Backstreet Boys - I Want It That Way (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/4y8Q8F5FrzY",
+      "playCount": 23244960,
+      "id": "nseok2qsg1l226rwbuxlua"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Tamia - Officially Missing You (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/svB75k2VJ2k",
+      "playCount": 62537147,
+      "id": "z21a42dryzgdplxv10ub"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Jaci Velasquez - Imagine Me Without You (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/6rGC3ebANM8",
+      "playCount": 93226540,
+      "id": "87bo2iedlsiu54wu146qra"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Pavolia Reine - Gate Open: Start! (Reff Only with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/twIpIw2CDWI",
+      "playCount": 1123156,
+      "id": "2pkrv5fucq95lsuqzakvp2"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Guang Liang - Tong Hua 童話 (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/JTFg7GDt2Mg",
+      "playCount": 81378886,
+      "id": "es7zof6ebopgw4mm5qdft"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Cliff Edge ft. Maiko Nakamura - Endless Tears (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/InvT5v0vmFY",
+      "playCount": 14267524,
+      "id": "v64dq95mfvdvqe08wdrvz8"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗bbno$ & Rich Brian - Edamame (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/oFs4_i9zols",
+      "playCount": 77467760,
+      "id": "kd8fe7qb7yax3h4ki111o"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vierratale - Seandainya (Old Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/4D1uqG1FOUU",
+      "playCount": 61399143,
+      "id": "ax7n0wyn3ulomdbzjwqnu"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Ed Sheeran - Perfect (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/LjNPX0LUcHg",
+      "playCount": 20901060,
+      "id": "r4wir4aaa0bxuv6fyzh0ve"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vanessa Carlton - A Thousand Miles (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/ipsF1CnyvFY",
+      "playCount": 28049363,
+      "id": "j87la9m6h2ftwypievd9l8"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Xiao Feng Feng - Learn To Meow 学猫叫 (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/0reF4Bh-Zic",
+      "playCount": 79596729,
+      "id": "mi1c62gry08y2ih6vxl1e"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Joy to the World (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/5LvQQIHq8Ew",
+      "playCount": 89673510,
+      "id": "hrjp89lgdactni4zfwmuzc"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗μ's - Snow Halation (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RgypxTvv6P0",
+      "playCount": 53779164,
+      "id": "uro7auvqqdm02rjhp4nrlfs"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Justin Bieber - Mistletoe (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/1zBtDS1JFJU",
+      "playCount": 12839830,
+      "id": "ml2wc2rpklit5e56wn8x9"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗164 ft. GUMI - Amanojaku (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/LaE8oXjMHRo",
+      "playCount": 88965739,
+      "id": "v5xm529rrin56f4c21odhq"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Jingle Bell Rock (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/YAIP-i6Mw5M",
+      "playCount": 23106682,
+      "id": "y1q2cdauoas0yc8egd42s"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Rufus Wainwright - Hallelujah (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/gpLPdDhdDcg",
+      "playCount": 47261114,
+      "id": "o3pofg7ee4kidunv1kojq"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Ariana Grande - Santa Tell Me (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/g0OJMezlYxQ",
+      "playCount": 33286522,
+      "id": "49x8nr1m17jkia2cv9qgnf"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗O Holy Night (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/awC_wYkZN6w",
+      "playCount": 18577012,
+      "id": "fpxw6pol29gius7574uds9"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Santa Claus Is Coming to Town (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/yVnyQeXjqWQ",
+      "playCount": 41052654,
+      "id": "36bv2g3s6gd8mwlgns9b6t"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Silent Night (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/b0IPtxo3Grc",
+      "playCount": 87534578,
+      "id": "ipo1hdw758rpy35qngm7"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗BOL4 - Some 썸 탈꺼야 (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/EYxWyxM8TAc",
+      "playCount": 68569488,
+      "id": "6ung4pg9lkf1ykzjox85vu"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Jingle Bells (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/Oy_amEdILwo",
+      "playCount": 5568981,
+      "id": "n5rb89yq0sgogvzei83oco"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Wham! - Last Christmas (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/L1GvjZ128vI",
+      "playCount": 47235386,
+      "id": "pf05jxhzmmpo7wjb4q26ri"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗We Wish You a Merry Christmas (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/qfS0IWjmcZw",
+      "playCount": 2150977,
+      "id": "z29r9x0b8rmw9iwyx3ubma"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Mariah Carey - All I Want For Christmas Is You (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/GCFtM9imt04",
+      "playCount": 69188828,
+      "id": "jow58rlrbto54lv0vybqj"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Sia - Snowman (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/r52MqVxueq0",
+      "playCount": 60717912,
+      "id": "l7ppe6r3zbqzyt7rgx2jd"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Utada Hikaru - First Love (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/O14XE_92Wjc",
+      "playCount": 87430891,
+      "id": "an83gh24zpsbxwnb677eka"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Natori - Overdose (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/OhrXrqRLsIQ",
+      "playCount": 76496769,
+      "id": "lt2oz8iu25i9k6u48ou87"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Kenshin Yonezu - Lemon (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/m2k4wpfV_g0",
+      "playCount": 71350518,
+      "id": "pu7zjr642zrb2h7xnczhvg"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Hata Motohiro - Himawari no Yakusoku (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/1v6Utsg1o5g",
+      "playCount": 70623924,
+      "id": "40fvutokiuolkdz4fwoic"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Radwimps - Suzume (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/jjeD-dBJ_bE",
+      "playCount": 69274882,
+      "id": "boh349qmjjaqk9y35bbox"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Ikimonogakari - Blue Bird (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/nRZFZ-o4y5Y",
+      "playCount": 15095870,
+      "id": "1dewthki1hp9y77dwqs7ij"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Sekai no Owari - RAIN (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RJYCYTHkbVc",
+      "playCount": 78087574,
+      "id": "41hco2dbi6acj60ob5388"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Owl City - Fireflies (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/rX1a6sDYULQ",
+      "playCount": 48280827,
+      "id": "4nbzzydjdb987cy24ym9ga"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yuuri - Christmas Eve (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/OpBQ386_Hj4",
+      "playCount": 52290787,
+      "id": "2hxnrt3mt5tnjv4u4cf7a9"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Sam Smith & Kim Petras - Unholy (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/IBksrkWGZvs",
+      "playCount": 76731823,
+      "id": "zjj9oil2kedwd4aypjk4qc"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Edith Piaf - La Vie En Rose (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/7g2SZ1all5k",
+      "playCount": 33258648,
+      "id": "tyabcrtbhhc70hyb6l3nay"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗JVKE - Golden Hour (Old Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/VgAkEcp0xy4",
+      "playCount": 50611469,
+      "id": "bkagqvzgmo3krrup4vsmw"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Coldplay - Viva La Vida (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/ODLRmAmehUY",
+      "playCount": 15068871,
+      "id": "fhg7mthfp3tvctdnsvuofi"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Silence Wang - You Dian Tian (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/7Wz8utwO95s",
+      "playCount": 96514961,
+      "id": "0qh2z760spzkas4ftft4q1"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Jennie - SOLO (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/3E16Pt8i5sg",
+      "playCount": 38166162,
+      "id": "32f1l49qee5qlkblz9unoj"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗PinkPantheress - Boy's a Liar (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/2_cSU4LXO9c",
+      "playCount": 44920569,
+      "id": "bpt4ls6ugedcbjvy6krghu"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Houshou Marine - I'm Your Treasure Box (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/o0ZH8NmlUNA",
+      "playCount": 12092291,
+      "id": "9jvj6qnl05mpeu4pivzrg"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Gym Class Heroes - Stereo Hearts (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/-s7CmR1fFlo",
+      "playCount": 6389076,
+      "id": "93r8h33xxids8ynn2nkae9"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗NewJeans - OMG (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/8Ca136Qu0Bc",
+      "playCount": 63697857,
+      "id": "hu99oe8mlcialw09uwnkcg"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Shawn Mendes - Stitches (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/j3oF62RfqNU",
+      "playCount": 55730662,
+      "id": "slfzkzvmlrcjjcr6dc9n4o"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗HoneyWorks - Fansa (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/J50asfwAnSk",
+      "playCount": 72111011,
+      "id": "adbkvtlktzxa43kx5eaij"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Haddaway - What Is Love (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/SFCKL70JsGQ",
+      "playCount": 41849735,
+      "id": "gz7rs588grm6gsdxdwrnwa"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Owl City - Good Time (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/LHP-9G3rHq4",
+      "playCount": 6881761,
+      "id": "ovgigi8rb3ntlnp5kr5bn"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Rihanna - Diamonds (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/hfWjW0QgJws",
+      "playCount": 78292153,
+      "id": "i7hqb361xym1i5zbiz5oc"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Xiao Feng Feng - Learn To Meow 学猫叫 (Cebo Ver. with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/60xib4CTTjI",
+      "playCount": 67096452,
+      "id": "pjifgaz3y3h3dh01i94g4"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Village People - YMCA (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/96NS34_GJrI",
+      "playCount": 35241919,
+      "id": "yzxqf4oy47uk07w5129q"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Hoàng Thuỳ Linh - See Tình (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/-et5d3pt6Wo",
+      "playCount": 85641755,
+      "id": "5jgz3nehcw4v71zbrlkxx"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Ayunda Risu - 1:15 AM (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/Mj78KKoZxEY",
+      "playCount": 92827236,
+      "id": "fi9bayich9ch64xidg5mcb"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Kenshi Yonezu - Kick Back (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/cbQAAxGR6xQ",
+      "playCount": 15968478,
+      "id": "q9k2l0oaxeajlrc77u4rc9"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗bbno$ & Rich Brian - Edamame (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/kQ1fciBfXic",
+      "playCount": 54412637,
+      "id": "0mp4qukbybjoc608n3dkbzg"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗YOASOBI - The Blessing (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/QH3R71TgIPU",
+      "playCount": 67589010,
+      "id": "z35qv75fdsdaknoc6xwa1"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Moona Hoshinova - Who's Toxic? It's You! (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/ja18Q19ztEc",
+      "playCount": 10089968,
+      "id": "iv6s0qacf8ggkvkfj9vphj"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Pavolia Reine - Love Me Love Me (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/90M2iuA7_64",
+      "playCount": 31308608,
+      "id": "b4tqq5gwfhrep92o6c4ldm"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Eric Chou - Ni Hao Bu Hao (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/zBsi1ux1iMw",
+      "playCount": 6323068,
+      "id": "an2gd3xdxue6blpa2fm0kq"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗JVKE - Golden Hour (New Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/e-XQHNnaEYM",
+      "playCount": 53667252,
+      "id": "7w29mg0fj8ov7yegkevwld"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗YOASOBI - Idol (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/1tHbaIFWQCM",
+      "playCount": 24832402,
+      "id": "a966kcroiovkiu79t94mh"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vierratale - Seandainya (New Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/S5IIlNPj-o8",
+      "playCount": 67670920,
+      "id": "pij8r77i1scvxbj5yonbn"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Ai Higuchi - Akuma no Ko (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/bIjSHVne0iE",
+      "playCount": 47349550,
+      "id": "77tirth77uxhp380872z5f"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Vierratale - Perih (New Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/QycKUL5tL9A",
+      "playCount": 17814777,
+      "id": "wk6ff4dcqc3om43x7vnn6"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yoasobi - Yoru ni Kakeru (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/bWQD91C0KdA",
+      "playCount": 24722104,
+      "id": "59r2zqdf3l7eygtqgypq1r"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Kana Hanazawa - Renai Circulation (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/6Pcu_14CgKw",
+      "playCount": 84700758,
+      "id": "vn0g2h9w177ndihyjq2c4"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗ZONE - Secret Base (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/V9u89df623A",
+      "playCount": 75073828,
+      "id": "qk8gb23fg6abcqzpzzn7w5"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗HIGE DANdism - Pretender (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/UpyxWbRLpNo",
+      "playCount": 91418562,
+      "id": "r3v541o8q7cz35edkosxln"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗LiSA - Gurenge (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/9nEv42NYq_g",
+      "playCount": 47121870,
+      "id": "86hui6xutu9qqflf12gst"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Sumika - Fiction (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/DExGgfYXr5I",
+      "playCount": 98017295,
+      "id": "hp42c3r5b6i3am16u2ss"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Aimer - Zankyou Sanka (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/9UYhoJPRRLQ",
+      "playCount": 54610124,
+      "id": "yvwz1jnta171ss0v1xzgi"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗HIGE DANdism - Cry Baby (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/QWm_kDjtbGo",
+      "playCount": 37351471,
+      "id": "6jgnp8bkxpqvjcdf1sh1vp"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗KurousaP - Cantarella (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/NxoLZHOMxPA",
+      "playCount": 85968246,
+      "id": "3b7tsmbw9wdy9k1ve1q2j"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗7!! - Orange (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/1kDlr-b8JtY",
+      "playCount": 18870416,
+      "id": "dm6w6st0hd92no4do1npmo"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Shota Shimizu - Kimi ga Suki (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/_SfJvz-yWzQ",
+      "playCount": 59091085,
+      "id": "mglqaukwa3mjy5p9kbo0g"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Mafumafu - Onna no Ko ni Naritai (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/G8mT4lNbiP8",
+      "playCount": 45037398,
+      "id": "4kn33top7btif0cs5d41hp"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Chris Hart - I Love You (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/ZSBJfmcsqz4",
+      "playCount": 35990357,
+      "id": "cayn7ycght8ycjbudsq9a"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Aimer - Kataomoi (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/Lnc_8jPJ3XA",
+      "playCount": 49676582,
+      "id": "c5fpetassqqwrojcnrdtir"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗RADWIMPS - Grand Escape (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RZERy8lJlws",
+      "playCount": 73998141,
+      "id": "gs9vv0gd0cfrciquy846v"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Moona Hoshinova - High Tide (Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RVu3tgvgi-U",
+      "playCount": 77184662,
+      "id": "821xu24ffvy9fqlrfbro7c"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Takanashi Kiara - SPARKS (Short Acoustic Ver.)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/nVLKFOebtR0",
+      "playCount": 1741550,
+      "id": "e50rtspabqbi2c5n5k9na"
+    },
+    {
+      "title": "Kobo Kanaeru - Oh Asmara (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/6uM3hI5TXIY",
+      "playCount": 59661581,
+      "id": "f2jznlaeybv0sjzlgskb7"
+    },
+    {
+      "title": "Kobo Kanaeru - Kentut (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/6bARV-7Ip6k",
+      "playCount": 91435175,
+      "id": "y9lkbvu2dcldj36sso6w3f"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yanagi Nagi - Harumodoki (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/Zjjmb96qe4o",
+      "playCount": 98499098,
+      "id": "w90odq31zm84jhztuljuwl"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗I WiSH - Asu e no Tobira (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/avZ-UAIw3fs",
+      "playCount": 70099539,
+      "id": "phk0weu9ymmehqfv1ttod"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Eito - Kousui (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/HSLTO4WqRgs",
+      "playCount": 975,
+      "id": "304dotebg2cs883xjhccnk"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Rokudenashi - Tada Koe Hitotsu (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/TsoblWMZ5Q0",
+      "playCount": 47551867,
+      "id": "tznoznl3ved3bs88sft96z"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Sasakure. UK - Tondemo Wonders (Duet with Cebo)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RBtk5qncpCs",
+      "playCount": 20434348,
+      "id": "yiogdptd6onndbalsyx3a"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yuuri - Dry Flower (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/eNrSAUBYJtw",
+      "playCount": 87569084,
+      "id": "240hu1f9dfuvccuxitzwkb"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Kenshi Yonezu - Eine Kleine (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/OOqeww3KZf0",
+      "playCount": 10530328,
+      "id": "4wyqwanmbpws2i6acx272l"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Yoko Takanashi - A Cruel Angel's Thesis (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/iIbBHjVh3TI",
+      "playCount": 95680055,
+      "id": "qat2nlm37ujpjizsf0gj"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Che'Nelle - Happiness (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/5KPV00mjKLY",
+      "playCount": 48967021,
+      "id": "i9otyi8c6gjwessjb3iql"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Tsumiki ft. KAFU - Phony (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/6BknRoMXwX4",
+      "playCount": 28305249,
+      "id": "r41qyeazugxfnroqiq1rp"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Little by Little - Kanashimi Wo Yasashisa Ni (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/kTCek0xKMZI",
+      "playCount": 20436177,
+      "id": "jc344h8z6edqab8kiwk1g"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Kanaria - KING (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/JmPtAVciUrw",
+      "playCount": 62684076,
+      "id": "tc810jue1yb1ec9yx7lqi8"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗LiSA - Homura (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/RoWr54tbG-c",
+      "playCount": 66889954,
+      "id": "6jma46s05hvrx5whw9ipaa"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗YOASOBI - Gunjou (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/S52l7UZKDAk",
+      "playCount": 43868662,
+      "id": "n1khrl0tb3qz6g0sdqbv5g"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗40mP - Karakuri Pierrot (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/sqMrhhFQoKU",
+      "playCount": 99548301,
+      "id": "z4c8m1d22ysmdl6md36u"
+    },
+    {
+      "title": "〖Kobo Kanaeru〗Fujii Kaze - Shinunoga E-Wa  (with Lyrics)",
+      "artist": [
+        "Kobo Kanaeru"
+      ],
+      "url": "https://youtu.be/7QW2xRYcu0A",
+      "playCount": 88765456,
+      "id": "u5v3ey959j10kevz6cug5c"
     }
-  ]
+  ],
+  "playlist": []
 }
