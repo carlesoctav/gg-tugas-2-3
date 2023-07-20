@@ -7,7 +7,7 @@ class Song {
         this.artist = artist
         this.title = title
         this.url = url
-        Object.defineProperty(this, 'playCount', { value: tempPlayCount, writable:true})
+        this.playCount = tempPlayCount
         Object.defineProperty(this, 'id', { value: tempId, writable: false })
     }
 
@@ -27,6 +27,17 @@ class Song {
             const data = await response.json()
             const ids = data.map(song => song.id)
             return ids
+        } catch(error){
+            console.error(error)
+        }
+    }
+
+    static async getAll(){
+        try{
+            const response = await fetch('http://localhost:3000/songs')
+            const data = await response.json()
+            const songs = data.map(song => new Song(song.artist, song.title, song.url, song.playCount, song.id))
+            return songs
         } catch(error){
             console.error(error)
         }
