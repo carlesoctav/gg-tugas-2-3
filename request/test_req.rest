@@ -1,0 +1,100 @@
+### Pakai extension REST Client di VSCode
+
+### GET
+
+GET http://localhost:3001/songs
+
+###
+GET http://localhost:3001/songs
+Content-Type: application/json
+
+{
+    "sorted":true
+}
+
+### GET ID, coba ganti ID kalau gagal D:
+GET http://localhost:3001/songs/02fjs7zqni0c52wgyhq6nar
+
+
+### GET ID, tapi salah
+GET http://localhost:3001/songs/u5v3ey9
+
+
+### POST BENAR
+
+POST http://localhost:3001/songs
+Content-Type: application/json
+
+{
+    "title": "Kobosaurus",
+    "artist": ["kobo kanaeru"],
+    "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+}
+
+
+### FAIL POST, artist bukan array
+
+POST http://localhost:3001/songs
+Content-Type: application/json
+
+{
+    "title": "Kobosaurus",
+    "artist": "kobo",
+    "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+}
+
+
+### bad URL, bukan youtube
+POST http://localhost:3001/songs
+Content-Type: application/json
+
+{
+    "title": "Ko",
+    "artist": ["kobo", "saurus"],
+    "url": "yotube.com"
+}
+
+### title kosong
+POST http://localhost:3001/songs
+Content-Type: application/json
+
+{
+    "title": "",
+    "artist": ["kobo", "saurus"],
+    "url": "yotube.com"
+}
+
+
+### PUT (update), semua validate sama seperti POST
+
+PUT http://localhost:3001/songs/02fjs7zqni0c52wgyhq6nar
+Content-Type: application/json
+    
+    {
+        "title": "Kobosaurus abis di update hd sdf",
+        "artist": ["kobo kanaeru HD"]
+    }
+
+
+### PUT, tapi ID salah
+
+PUT http://localhost:3001/songs/clb4vctlhoa5kl6etdeu
+Content-Type: application/json
+    
+    {
+        "title": "Kobosaurus abis di update hd lagi ",
+        "artist": ["kobo kanaeru"],
+        "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+    }
+
+
+### DELETE, BENER, coba pilih random ID di fakedb.json
+
+DELETE http://localhost:3001/songs/clb4vctlhoa5kl6etdeub8
+
+### DELETE, SALAH
+DELETE http://localhost:3001/songs/clb4vctlhoa5kl6etdeu
+
+
+### Unkown route
+GET http://localhost:3001/song

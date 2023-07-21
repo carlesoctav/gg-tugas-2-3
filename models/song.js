@@ -28,7 +28,7 @@ class Song {
             const ids = data.map(song => song.id)
             return ids
         } catch(error){
-            console.error(error)
+            console.log(error)
         }
     }
 
@@ -40,6 +40,7 @@ class Song {
             return songs
         } catch(error){
             console.error(error)
+
         }
     }
 
@@ -57,6 +58,46 @@ class Song {
             return new Song(data.artist, data.title, data.url, data.playCount, data.id)
         } catch(error){
             console.log(error)
+        }
+    }
+
+    static Validate(song){
+
+        const artist = song.artist
+        const title = song.title
+        const url = song.url
+
+        if(!Array.isArray(artist)){
+            console.log("we are here")
+            throw new Error('Artist must be an array')
+        }
+
+        if(artist.length === 0){
+            throw new Error('Artist cannot be empty')
+        }
+
+        if(!artist.every((item) => typeof item === 'string')){
+            throw new Error('Artist must be an array of strings')
+        }
+
+        if(typeof title !== 'string'){
+            throw new Error('Title must be a string')
+        }
+
+        if(title.length === 0){
+            throw new Error('Title cannot be empty')
+        }
+
+        if(typeof url !== 'string'){
+            throw new Error('URL must be a string')
+        }
+
+        if(url.length === 0){
+            throw new Error('URL cannot be empty')
+        }
+
+        if(!url.startsWith('https://')){
+            throw new Error('URL must be a valid YouTube URL')
         }
     }
 
@@ -93,10 +134,8 @@ class Song {
         }
     }
 
-
-
     async save(){
-        const ids = await Song.getAllId()
+        
 
         const songEdited = {
             'title': this.title,
@@ -106,7 +145,9 @@ class Song {
             'id': this.id
         }
 
-        
+        Song.Validate(songEdited)
+
+        const ids = await Song.getAllId()
 
         if(ids.some(id => id === this.id)){
             try{
@@ -136,6 +177,10 @@ class Song {
         console.log(error)
     }
 
+    }
+
+    playCountPlusPlus(song){
+        this.playCount++
     }
 }
 

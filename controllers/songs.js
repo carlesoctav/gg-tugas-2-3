@@ -1,98 +1,89 @@
 const Song = require('../models/song')
-const SongRouter = require('express').Router()
+const songRouter = require('express').Router()
 const sortedByPlayCount = require('../services/sortedByPlayCount')
+// const playCountPlusPlus = require('../services/playCountPlusPlus')
 
 
-
-
-
-
-
-// CREATE
-SongRouter.post('/', async (req, res) => {
+//CREATE
+songRouter.post('/', async (req, res) => {
     try {
-        const song = new Song(req.body)
+        const title = req.body.title
+        const artist = req.body.artist
+        const url  = req.body.url
+        const playCount = 0
+        const song = new Song(artist,title,url,playCount)
         await song.save()
         res.status(201).json(song)
     } catch (error) {
-        res.status(400).send(error)
+        res.status(400).send({error:error.message})
     }
 })
 
 // READ ALL
-SongRouter.get('/', async (req, res) => {
-
+songRouter.get('/', async (req, res) => {
+    const body = req.body
     try {
-        const songs = await Song.getAllId()
+        const songs = await Song.getAll()
+        if(!body.sorted){
+             return res.send(songs)
+        } else{
+            return res.send(sortedByPlayCount(songs))
+        }
+
     } catch (error) {
         res.status(500).send(error)
     }
-
-
-    if(!body.sorted){
-        res.send(sortedByPlayCount(songs))
-    } else{
-        res.send(songs)
-    }
 })
 
-// READ ONE and COUNT it as played
-SongRouter.get('/:id', async (req, res) => {
+songRouter.get('/:id', async (req, res) => {
     try {
         const song = await Song.getSongbyId(req.params.id)
-        if (!song) {
-            return res.status(404).send()
+        if (!song.title) {
+            return res.status(404).send({error: 'Song not found'})
         }
-        
-        await updatePlayCount(song)
+        song.playCountPlusPlus()
         res.send(song)
+        await song.save()
     } catch (error) {
-        res.status(500).send(error)
+        return res.send({error:error.message})
     }
 })
 
-// UPDATE
-SongRouter.put('/:id', async (req, res) => {
+songRouter.put('/:id', async (req, res) => {
 
-    const body = req.body()
+    const body = req.body
     
     try {
         const song = await Song.getSongbyId(req.params.id)
-        if (!song) {
-            return res.status(404).send()
-        } catch(error){
-            next(error)
-        }
-    }
+        if (!song.title){
+            return res.status(404).send({error: 'Song not found'})
+        } 
 
-    song.title = body.title === undefined ? song.title : body.title
-    song.artist = body.artist === undefined ? song.artist : body.artist
-    song.url = body.url === undefined ? song.url : body.url
+        song.title = body.title === undefined ? song.title : body.title
+        song.artist = body.artist === undefined ? song.artist : body.artist
+        song.url = body.url === undefined ? song.url : body.url
 
-    try {
         await song.save()
         res.send(song)
-    } catch (error) {
-        next(error)
-    }
-}
-// DELETE
-SongRouter.delete('/:id', async (req, res) => {
-    try {
-        const song = await Song.getSongbyId(req.params.id)
-        if (!song) {
-            return res.status(404).send()
-        }
+        
     } catch(error){
-        next(error)
+        return res.send({error:error.message})
     }
 
+})
+
+songRouter.delete('/:id', async (req, res) => {
     try {
+        const song = await Song.getSongbyId(req.params.id)
+        if (!song.title) {
+            return res.status(404).send({error: 'Song not found'})
+        }
         await song.delete()
-        res.send(song)
+        return res.send({message: 'Song deleted', song})
     } catch (error) {
-        next(error)
+        return res.send({error:error.message})
     }
 })
 
-module.exports = SongRouter
+
+module.exports = songRouter
