@@ -26,7 +26,7 @@ untuk menjalankan aplikasi, kita membutuhkan sebuah server database, gunakan per
 
 ```bash
 npm run server
-```bash
+```
 
 untuk menjalankan aplikasi, gunakan perintah berikut di terminal:
 
